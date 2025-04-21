@@ -16,7 +16,7 @@ title: AI Cooking Agent
 ## Questions - might be simple for someone but not for everyone
 * What should I cook?
 * What have I bought from the grocery store?
-* Can I have some cooking recipes that are customized (taking advantage of LLM) but also grounded by online resouces like websites and youtube videos (so I don't risk cook something too creative)?
+* Can I have some cooking recipes that are customized (taking advantage of LLM) but also grounded by online resouces like websites and youtube videos (so I don't risk cooking something too creative)?
 
 ## Capability
 * answer open questions about cooking
