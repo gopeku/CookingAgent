@@ -1,6 +1,3 @@
----
-title: AI Cooking Agent
----
 # &#127859;Cooking Agent with Prompt and GoogleSearch Grounding
 ---
 
