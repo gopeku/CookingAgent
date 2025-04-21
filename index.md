@@ -1,6 +1,6 @@
 ---
 title: AI Cooking Agent
-subtitle: "Ask anything about cooking"
+description: Ask What To Cook
 ---
 # &#127859;Cooking Agent with Prompt and GoogleSearch Grounding
 
