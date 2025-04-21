@@ -1,5 +1,6 @@
 ---
 title: AI Cooking Agent
+subtitle: ""
 ---
 # &#127859;Cooking Agent with Prompt and GoogleSearch Grounding
 
